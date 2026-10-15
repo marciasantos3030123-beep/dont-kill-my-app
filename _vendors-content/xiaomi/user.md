@@ -1,3 +1,5 @@
+redimi 10
+
 ---
 manufacturer: 
     - xiaomi
